@@ -1,6 +1,6 @@
 /*
 Filename: main.cpp
-Description: Reports alarm state on the LCD when buttons '2' and '3' are pressed on the keypad, 
+Description: Reports alarm state on the LCD every 5 seconds
 Author: A Redfern
 Date: 06/03/2025
 Input/Output: 
